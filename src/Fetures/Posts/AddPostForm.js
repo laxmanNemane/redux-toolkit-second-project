@@ -33,7 +33,7 @@ const AddPostForm = () => {
   return (
     <section
       style={{
-        width: "50%",
+        width: "40%",
         margin: "auto",
         background: "#ced4da",
         borderRadius: "10px",

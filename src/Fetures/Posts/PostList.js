@@ -23,7 +23,7 @@ const PostList = () => {
         </article>
     ));
     return (
-        <div style={{ width: "50%", margin: "auto", }}>
+        <div style={{ width: "40%", margin: "auto", }}>
             <h4 className="ms-2 py-2 mt-4">Posts</h4>
             {renderedPostlist}
         </div>
